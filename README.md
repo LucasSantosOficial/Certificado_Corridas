@@ -194,7 +194,7 @@ Contribuições são bem-vindas! Para contribuir:
 
 Se você encontrar algum problema ou tiver sugestões, por favor:
 - Abra uma issue no GitHub
-- Entre em contato através do email: [seu-email@exemplo.com]
+- Entre em contato através do email: Lucas.santos.contatoempresarial@gmail.com
 
 ## 🏆 Créditos
 
