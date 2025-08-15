@@ -2,6 +2,9 @@
 
 Um aplicativo web moderno e elegante para criar certificados personalizados de corridas em formato PDF. Desenvolvido com React e Tailwind CSS, oferece uma interface intuitiva para corredores registrarem suas conquistas de forma profissional.
 
+![Tela inicial do sistema](assets/readme.png)
+
+
 ## ✨ Funcionalidades
 
 ### 📝 Formulário Completo
